@@ -12,3 +12,6 @@ git remote add origin git@github.com:prathash/DSA.git
 
 git push -u origin main
 
+git add . → Stage changed files.
+git commit -m "message" → Save a snapshot locally.
+git push origin main → Upload commits to GitHub.
